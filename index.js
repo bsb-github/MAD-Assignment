@@ -20,7 +20,7 @@ function sumOfDigits(number){
 
     
 }
-//program to find sum of even digits. Input 23617 output 2+6=8
+//program to find sum of even digits. Input 23617 output 2+6=8;
 
 function sumOfEvenDigits(number){
     let myFunc = num => Number(num);
